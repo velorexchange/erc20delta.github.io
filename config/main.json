@@ -271,7 +271,6 @@
     { "addr": "0x4156d3342d5c385a87d264f90653733592000581", "name": "SALT", "decimals": 8 },
     { "addr": "0xce61f5e6d1fe5a86e246f68aff956f7757282ef0", "name": "1LIFE", "decimals": 18 },
     { "addr": "0xf1d9139c6512452db91f25635457b844d7e22b8b", "name": "CTC", "decimals": 4 },
-    { "addr": "0xef2e9966eb61bb494e5375d5df8d67b7db8a780d", "name": "SHIT", "decimals": 0 },
     { "addr": "0x29d75277ac7f0335b2165d0895e8725cbf658d73", "name": "CSNO", "decimals": 8 },
     { "addr": "0x0aef06dcccc531e581f0440059e6ffcc206039ee", "name": "ITT", "decimals": 8 },
     { "addr": "0xb561fef0d624c0826ff869946f6076b7c4f2ba42", "name": "SER", "decimals": 7 },
